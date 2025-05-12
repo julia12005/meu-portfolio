@@ -12,6 +12,8 @@ Sou uma pessoa apaixonada por tecnologia e programação. Estou aprendendo a usa
 ## Meu LinkedIn
 
 - [LinkedIn](www.linkedin.com/in/júlia-paiva-braga-53b70a351)
+- [Instagram](https://www.instagram.com/juh_.1x?igsh=d215azBibXNlNm4w&utm_source=qr)
+- [GitHub](https://github.com/julia12005)
 ---
 
 Se quiser falar comigo, é só me chamar. 😊
