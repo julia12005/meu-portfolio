@@ -2,10 +2,10 @@ Este repositório foi feito para organizar meus projetos de programação. Ele e
 
 * projetos-academicos: Projetos feitos durante cursos ou aulas.
 
-  * Exemplo:
+  * Exemplo: 'calculadora.py'
 * projetos-pessoais: Projetos que eu fiz sozinho para treinar ou testar ideias.
 
-  * Exemplo: 
+  * Exemplo: 'distancia-de-dois-pontos-cartesiano'
 * documentacao: Textos que explicam como o repositório está organizado (você está aqui!).
 
 ---
