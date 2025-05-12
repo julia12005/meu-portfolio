@@ -16,5 +16,5 @@ Sou uma pessoa apaixonada por tecnologia e programação. Estou aprendendo a usa
 - [GitHub](https://github.com/julia12005)
 ---
 
-Se quiser falar comigo, é só me chamar. 😊
+Se quiser falar comigo, é só entrar em contato. 😊
 
