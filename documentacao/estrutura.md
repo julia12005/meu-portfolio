@@ -1,12 +1,12 @@
 Este repositório foi feito para organizar meus projetos de programação. Ele está dividido assim:
 
-# projetos-academicos: Projetos feitos durante cursos ou aulas.
+* projetos-academicos: Projetos feitos durante cursos ou aulas.
 
   * Exemplo:
-# projetos-pessoais: Projetos que eu fiz sozinho para treinar ou testar ideias.
+* projetos-pessoais: Projetos que eu fiz sozinho para treinar ou testar ideias.
 
   * Exemplo: 
-# documentacao: Textos que explicam como o repositório está organizado (você está aqui!).
+* documentacao: Textos que explicam como o repositório está organizado (você está aqui!).
 
 ---
 
